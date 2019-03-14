@@ -9,7 +9,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install them.
 
 * Pillow
 ```bash
-pip install foobar
+pip install Pillow
 ```
 
 ## Usage
